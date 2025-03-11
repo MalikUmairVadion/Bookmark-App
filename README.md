@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is built using [NestJS](https://nestjs.com/) as a backend framework. Below is an overview of the key modules and features included in the application:
+This project is built using [NestJS](https://nestjs.com/) as a backend framework. Below is an overview of all the key modules and features included in the application:
 
 ### Auth Module:
 
